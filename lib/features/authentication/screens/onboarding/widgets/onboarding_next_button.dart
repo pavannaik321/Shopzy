@@ -3,9 +3,9 @@ import 'package:iconsax/iconsax.dart';
 import 'package:shopzy/features/authentication/controllers_onboarding/onboarding_controller.dart';
 import 'package:shopzy/utils/helpers/helper_functions.dart';
 
-import '../../../../utils/constants/colors.dart';
-import '../../../../utils/constants/sizes.dart';
-import '../../../../utils/device/device_utility.dart';
+import '../../../../../utils/constants/colors.dart';
+import '../../../../../utils/constants/sizes.dart';
+import '../../../../../utils/device/device_utility.dart';
 
 class OnBoardingNextButton extends StatelessWidget {
   const OnBoardingNextButton({

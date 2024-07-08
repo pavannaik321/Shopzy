@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shopzy/features/authentication/controllers_onboarding/onboarding_controller.dart';
-import 'package:shopzy/features/authentication/screens_onboarding/widgets/onboarding_dot_navigation.dart';
-import 'package:shopzy/features/authentication/screens_onboarding/widgets/onboarding_next_button.dart';
-import 'package:shopzy/features/authentication/screens_onboarding/widgets/onboarding_page.dart';
-import 'package:shopzy/features/authentication/screens_onboarding/widgets/onboarding_skip.dart';
+import 'package:shopzy/features/authentication/screens/onboarding/widgets/onboarding_dot_navigation.dart';
+import 'package:shopzy/features/authentication/screens/onboarding/widgets/onboarding_next_button.dart';
+import 'package:shopzy/features/authentication/screens/onboarding/widgets/onboarding_page.dart';
+import 'package:shopzy/features/authentication/screens/onboarding/widgets/onboarding_skip.dart';
 import 'package:shopzy/utils/constants/image_strings.dart';
 import 'package:shopzy/utils/constants/text_strings.dart';
 

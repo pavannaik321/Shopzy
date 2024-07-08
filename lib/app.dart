@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shopzy/utils/theme/theme.dart';
 
-import 'features/authentication/screens_onboarding/onboarding.dart';
+import 'features/authentication/screens/onboarding/onboarding.dart';
 
 /// -- Use this Class to setup themes , initial Bindings, any animation and much more
 
